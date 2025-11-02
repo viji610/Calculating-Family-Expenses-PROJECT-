@@ -13,9 +13,13 @@ PROJECT OBJECTIVES:
 FEATURES IMPLEMENTED:
 
   Family Expenses Table	    Stores family name, budget, category, etc.
+  
   Daily Expenses Table	    Stores individual (PERSON) spending records
+  
   Reference Fields        	Links Daily Expenses to Family
+  
   Related List              View	Daily records shown under each family
+  
   Business Rule             Warns if total spending exceeds the set budget
 
 SCREEN SHOTS:
