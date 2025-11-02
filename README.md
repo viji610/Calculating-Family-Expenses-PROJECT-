@@ -25,3 +25,7 @@ FEATURES IMPLEMENTED:
 SCREEN SHOTS:
 
   All screenshots of the project setup are available inside the Screenshots Files.
+
+REFERENCE LINK:
+
+https://youtu.be/xwsk9RHnPnk?si=e8Xxksir9jn76oon
