@@ -1,1 +1,1 @@
-# Calculating-Family-Expenses-PROJECT-
+“Calculating Family Expenses using ServiceNow”(in the servicenow platform) is a no-code application that helps users manage and track the family spending. Built entirely on the ServiceNow platform, this system allows families to record daily expenses (like spending expenses) and categorize them.
